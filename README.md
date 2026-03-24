@@ -29,27 +29,25 @@ Object-Oriented Programming | Data Structures | AI Integration | Mobile & Web De
 
 ## 💻 Projects
 
-- **[Readiko](#)** – AI-powered web app to enhance students’ reading comprehension with personalized feedback and separate student/teacher interfaces.  
-- **[Finish Line](#)** – JavaFX typing game emphasizing object-oriented programming principles and database integration.  
-- **[QuickCart](#)** – Kotlin mobile app for creating and managing grocery lists with an intuitive UI.  
-- **[AIO StuBu](#)** – JavaFX desktop app providing modular academic tools for offline use.  
-- **[ARC](#)** – Backend system in Java/Spring Boot managing student-faculty consultations with booking, availability checks, and authentication.  
-- **[QueTek](#)** – Python/Django web-based queuing system allowing same-day ticket creation, future bookings, and notifications for an accounting office.  
-
-> *(Replace `#` with your actual GitHub project URLs)*
+- **[Readiko](https://github.com/honerl/Readiko)** – AI-powered web app to enhance students’ reading comprehension with personalized feedback and separate student/teacher interfaces.  
+- **[Finish Line](https://github.com/liya28/FinishLine)** – JavaFX typing game emphasizing object-oriented programming principles and database integration.  
+- **[QuickCart](https://github.com/muhadma/QuickCart)** – Kotlin mobile app for creating and managing grocery lists with an intuitive UI.  
+- **[AIO StuBu](https://github.com/liya28/AIOStuBu)** – JavaFX desktop app providing modular academic tools for offline use.  
+- **[ARC](https://github.com/honerl/Team-Regacho-ARC)** – Backend system in Java/Spring Boot managing student-faculty consultations with booking, availability checks, and authentication.  
+- **[QueTek](https://github.com/rrraine/QueTek)** – Python/Django web-based queuing system allowing same-day ticket creation, future bookings, and notifications for an accounting office.  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Harley’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Harley’s GitHub stats](https://github-readme-stats.vercel.app/api?username=muhadma&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contact Me
-- Email: [your email]  
-- LinkedIn: [your LinkedIn URL]  
-- GitHub: [your GitHub URL]  
+- Email: harleyreyes879@gmail.com
+- LinkedIn: **[Harley Reyes](https://www.linkedin.com/in/harley-reyes-b0b830383/)**  
+- GitHub: **[muhadma](https://github.com/muhadma)**
 
 ---
 
